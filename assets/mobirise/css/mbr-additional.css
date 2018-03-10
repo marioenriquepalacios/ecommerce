@@ -1480,3 +1480,28 @@ body {
     text-align: center;
   }
 }
+.cid-qLRf6ob5sn {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/background4.jpg");
+}
+.cid-qLRf6ob5sn .media-container-row {
+  flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-qLRf6ob5sn .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qLRf6ob5sn .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qLRf6ob5sn .mbr-text {
+    text-align: center;
+  }
+}
